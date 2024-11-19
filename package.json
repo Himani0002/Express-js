@@ -1,6 +1,7 @@
 {
   "name": "express",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +12,9 @@
   "dependencies": {
     "cat-me": "^1.0.3",
     "epress": "^0.0.1-security",
-    "express": "^4.21.1"
+    "express": "^4.21.1",
+    "random": "^5.1.1",
+    "random-words": "^2.0.1",
+    "words": "^0.2.1"
   }
 }
