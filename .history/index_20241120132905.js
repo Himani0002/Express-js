@@ -9,4 +9,3 @@
 // // Use the imported values
 // console.log(sum(2, 3)); // Example usage
 // console.log(generate());
-
